@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/JWT_AUTH.iml" filepath="$PROJECT_DIR$/.idea/JWT_AUTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Golang_CRUD.iml" filepath="$PROJECT_DIR$/.idea/Golang_CRUD.iml" />
     </modules>
   </component>
 </project>

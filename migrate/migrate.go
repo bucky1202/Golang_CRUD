@@ -1,8 +1,8 @@
 package main
 
 import (
-	"JWT_AUTH/initializers"
-	"JWT_AUTH/models"
+	"Goland_CRUD/initializers"
+	"Goland_CRUD/models"
 )
 
 func init() {

@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"JWT_AUTH/initializers"
-	"JWT_AUTH/models"
+	"Goland_CRUD/initializers"
+	"Goland_CRUD/models"
 	"github.com/gin-gonic/gin"
 )
 

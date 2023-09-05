@@ -1,4 +1,4 @@
-module JWT_AUTH
+module Goland_CRUD
 
 go 1.21.0
 

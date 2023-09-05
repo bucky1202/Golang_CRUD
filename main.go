@@ -1,8 +1,8 @@
 package main
 
 import (
-	"JWT_AUTH/controllers"
-	"JWT_AUTH/initializers"
+	"Goland_CRUD/controllers"
+	"Goland_CRUD/initializers"
 	"github.com/gin-gonic/gin"
 )
 
