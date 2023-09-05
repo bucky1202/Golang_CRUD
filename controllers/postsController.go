@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"Goland_CRUD/initializers"
-	"Goland_CRUD/models"
+	"Golang_CRUD/initializers"
+	"Golang_CRUD/models"
 	"github.com/gin-gonic/gin"
 )
 

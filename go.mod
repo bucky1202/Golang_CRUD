@@ -1,4 +1,4 @@
-module Goland_CRUD
+module Golang_CRUD
 
 go 1.21.0
 

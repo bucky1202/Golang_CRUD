@@ -1,8 +1,8 @@
 package main
 
 import (
-	"Goland_CRUD/controllers"
-	"Goland_CRUD/initializers"
+	"Golang_CRUD/controllers"
+	"Golang_CRUD/initializers"
 	"github.com/gin-gonic/gin"
 )
 

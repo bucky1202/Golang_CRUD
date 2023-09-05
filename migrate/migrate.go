@@ -1,8 +1,8 @@
 package main
 
 import (
-	"Goland_CRUD/initializers"
-	"Goland_CRUD/models"
+	"Golang_CRUD/initializers"
+	"Golang_CRUD/models"
 )
 
 func init() {
